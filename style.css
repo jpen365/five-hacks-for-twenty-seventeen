@@ -1,0 +1,24 @@
+/*
+Theme Name:     Five Hacks for Twenty Seventeen
+Theme URI:      http://premium.wpmudev.org/blog
+Description:    A Twenty Seventeen child theme developed to demonstrate how to implement five theme customizations: a custom social links menu, a personalized site footer message, dynamic one page navigation, custom front page sidebars, and a large featured image.
+Author:         Jon Penland
+Author URI:     https://www.jonpenland.com
+License:        GNU General Public License v2 or later
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Template:       twentyseventeen
+Version:        1.0
+*/
+
+
+/* Force sticky navigation into position */
+#page-header {
+  margin-bottom: 0 !important;
+}
+/* Force header image to full height */
+#custom-header-media {
+  height: 100vh;
+  max-height: 100%;
+  overflow: hidden;
+  position: relative;
+}
