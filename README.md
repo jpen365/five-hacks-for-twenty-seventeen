@@ -20,7 +20,7 @@ For access to all features, also install the following plugins:
 - [Custom Sidebars](https://wordpress.org/plugins/custom-sidebars/)
 - [jQuery Smooth Scroll](https://wordpress.org/plugins/jquery-smooth-scroll/)
 
-To learn how to use all features, including how to add custom sidebars to each front page section, read the tutorial published at [the WPMU DEV blog](http://premium.wpumdev.org/blog).
+To learn how to use all features, including how to add custom sidebars to each front page section and how to build the front page menu, read the tutorial published at [the WPMU DEV blog](http://premium.wpumdev.org/blog).
 
 ## Known Issues
 
