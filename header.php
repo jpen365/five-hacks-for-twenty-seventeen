@@ -27,7 +27,7 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyseventeen' ); ?></a>
 
 	<header id="masthead" class="site-header" role="banner">
-		<?php if ( has_post_thumbnail() && ( is_single() || ( is_home() || ( is_page() && ! twentyseventeen_is_frontpage() ) ) ) ) : ?>
+		<?php if ( is_home() || has_post_thumbnail() && ( is_single() || ( is_home() || ( is_page() && ! twentyseventeen_is_frontpage() ) ) ) ) : ?>
 			<span class="has-header-image twentyseventeen-front-page home">
 				<div id="page-header" class="custom-header">
 					<div id="custom-header-media" class="custom-header-media" >
