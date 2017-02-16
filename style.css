@@ -22,3 +22,18 @@ Version:        1.11
   overflow: hidden;
   position: relative;
 }
+
+@media screen and (max-width: 48em) {
+  .has-header-image.twentyseventeen-front-page .site-branding,
+  .has-header-video.twentyseventeen-front-page .site-branding,
+  .has-header-image.home.blog .site-branding,
+  .has-header-video.home.blog .site-branding {
+    bottom: 0;
+    display: block;
+    left: 0;
+    height: auto;
+    padding-top: 0;
+    position: absolute;
+    width: 100%;
+  }
+}
