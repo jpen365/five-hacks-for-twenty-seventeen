@@ -1,4 +1,9 @@
 # Five Hacks for Twenty Seventeen
+
+## Disclaimer
+
+**This is an unfinished child theme intended to be used by developers and WordPress development students. It is a not a production-ready finished product. It is offered without any guarantee that it is bug-free or suitable for use by non-technical users.**
+
 ## A WordPress Child Theme for Twenty Seventeen
 
 This is a child theme that adds the following features to Twenty Seventeen:
